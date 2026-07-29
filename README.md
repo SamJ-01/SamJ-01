@@ -28,6 +28,6 @@ want to receive as a reviewer.
 
 - MSc Cyber Security Technology — Northumbria University (in progress)
 - Google Cybersecurity Professional Certificate
-- [CompTIA Security+ — in progress]
+- CompTIA Security+ (in progress)
 
-📫 samandrejackson@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-URL)
+📫 samandrejackson@gmail.com · [LinkedIn](https://www.linkedin.com/in/samuel-jackson-46b33a1b7)
