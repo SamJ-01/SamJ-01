@@ -11,7 +11,7 @@ want to receive as a reviewer.
 
 | Project | Summary | Stack |
 |---|---|---|
-| [Operation Silent Corridor](https://github.com/SamJ-01/threat-hunt-silent-corridor) | End-to-end intrusion investigation: credential theft → lateral movement → ntds.dit exfiltration → anti-forensics. Full DFIR report, ATT&CK-mapped. | KQL · Sysmon · Azure Log Analytics |
+| [Operation Silent Corridor](https://github.com/SamJ-01/threat-hunt-silent-corridor) | LOG(N) Pacific threat-hunt challenge: used KQL against Sysmon telemetry to trace a multi-stage intrusion (credential theft → lateral movement → ntds.dit exfiltration → anti-forensics). Write-up, IOCs and queries, ATT&CK-mapped. | KQL · Sysmon · Azure Log Analytics |
 | [KQL Detection Library](https://github.com/SamJ-01/kql-detection-library) | Production-style detection queries organised by ATT&CK tactic, each documented with logic, false-positive analysis, and tuning notes. | KQL · Sentinel · MDE |
 | [MDE Detection & Automated Response](https://github.com/SamJ-01/mde-detection-automation) | Custom detections with automated device isolation and forensic package collection. | Defender for Endpoint |
 | [netscan-report](https://github.com/SamJ-01/netscan-report) | Python CLI that wraps nmap, risk-rates exposed services and generates HTML/Markdown/JSON reports. Validated in a scan → harden → re-scan lab, where real-world testing exposed (and fixed) an SMB severity bug. | Python · nmap · pytest |
