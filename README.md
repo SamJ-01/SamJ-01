@@ -1,6 +1,4 @@
-# Sam Jackson
-
-**SOC Analyst Intern @ LOG(N) Pacific · MSc Cyber Security Technology**
+![Sam Jackson: SOC Analyst Intern at LOG(N) Pacific, MSc Cyber Security Technology. Sentinel, Defender XDR, KQL, Azure, MITRE ATT&CK](assets/banner.png)
 
 Hypothesis → evidence → timeline → report. This profile documents defensive
 security work (threat hunting, detection engineering, vulnerability management
